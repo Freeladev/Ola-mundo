@@ -1,2 +1,4 @@
-# Ola-mundo
- Primeiro repositorio do curso do guanabara
+# Olá, mundo!
+ Primeiro Repositório
+
+ Repositório criado durante uma aula do Curso em vídeo.
